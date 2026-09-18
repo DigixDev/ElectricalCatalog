@@ -1,0 +1,8 @@
+{
+  "name": "Remix الکترو کاتالوگ | سامانه مهندسی تجهیزات برق صنعتی",
+  "description": "سامانه تخصصی تدارکات و کاتالوگ تجهیزات برق صنعتی، تابلوهای توزیع و اتوماسیون، ماتریس مقایسه پارامتریک، دیاگرام تک‌خطی SLD و مدیریت سفارشات مهندسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
